@@ -108251,7 +108251,7 @@
       "address": "DpP9baPNx9gaVDR9ez4Dc6Ty4UnCbtChrfw5WAyc7ei6",
       "symbol": "NCCoin",
       "name": "Night Club Coin",
-      "decimals": 6,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Night-Club/Coins/main/nigtclub.png",
       "tags": [
         "game",
